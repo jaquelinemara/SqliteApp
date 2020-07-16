@@ -1,4 +1,6 @@
 # SqliteApp
->Aplicativo Android contendo CRUD com Sqlite de cadastro de notas de alunos.
 
-![(img/movie-icon.jpg)](img/sqlite.mp4)
+Aplicativo Android contendo CRUD com Sqlite de cadastro de notas de alunos.
+
+![Demonstration](https://github.com/jaquelinemara/SqliteApp/blob/master/img/gif.gif)
+
