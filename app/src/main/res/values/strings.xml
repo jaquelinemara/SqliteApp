@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SqLiteApp</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="marks">Marks</string>
+    <string name="nota">Nota</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="adicionar_dado">Adicionar Dado</string>
+    <string name="visualizar_tudo">Visualizar tudo</string>
+    <string name="visualizar_dados">Visualizar dados</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="id">id</string>
+    <string name="visualizar">Visualizar</string>
+    <string name="deletar">Deletar</string>
+</resources>
